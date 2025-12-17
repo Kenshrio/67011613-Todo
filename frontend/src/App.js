@@ -4,7 +4,6 @@ import Login from './components/Login';
 import TodoList from './components/TodoList';
 
 
-
 function App() {
     const [currentUser, setCurrentUser] = useState(null);
 
